@@ -1,0 +1,22 @@
+To run the project, follow these steps:
+
+
+1.	Install e(fx)clipse from the Eclipse Marketplace to enable JavaFX development in Eclipse.
+2.	To download Java JDK 20 version + to make it compatible for Maven Build
+3.	Install SceneBuilder and JavaFX to facilitate UI design and development.
+4.	Configure the project's build path with the necessary dependencies, ensuring that all required libraries are properly linked.
+5.	Run the application by executing the main application file.
+6.	As an administrator:
+a.	Log in using the admin credentials.
+b.	Utilize the admin interface to perform various tasks such as adding, deleting, or editing flights. Additionally, you can map seats for flights if needed.
+
+7.	As a user:
+
+a.	Sign up for an account if you haven't already.
+b.	Select the desired flight and specify the number of passengers.
+c.	Provide passenger information as required.
+d.	Choose seats for the passengers.
+e.	Proceed to payment, where you can pay using either a card or PayPal.
+f.	Upon successful payment, the booking will be confirmed.
+g.	View your booking history on the user history page.
+h.	Log out when finished.
